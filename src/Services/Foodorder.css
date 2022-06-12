@@ -1,0 +1,156 @@
+
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.food-search fieldset {
+    background-color: rgb(255, 217, 0);
+}
+
+.legend{
+    font-size: larger;
+    font-weight: 750;
+}
+
+.orderbtn{
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-size: large;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;padding-left: 28px;
+    margin: 10px;
+    background: black;
+    color: rgb(255, 217, 0);
+    margin-left: 30%;
+}
+
+.orderbtn:hover{
+    transform: scale(1.1); 
+    color: aliceblue;
+}
+
+
+ 
+.food-search{
+    background-image: url("../asesst/undraw_barbecue_3x93.png");
+    background-repeat: no-repeat;background-size: 48rem;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+    margin-left: 30rem;
+}
+.img-responsive{
+    width: 100%;
+}
+.img-curve{
+    border-radius: 15px;
+}
+
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+.text-white{
+    color: black;
+    margin-top: 1.5rem;
+}
+
+textarea {
+    resize: none;
+}
+
+.clearfix{
+    clear: both;
+    float: none;
+}
+
+h2{
+    color: #2f3542;
+    font-size: 2rem;
+    margin-bottom: 2%;
+}
+h3{
+    font-size: 1.5rem;
+}
+.float-container{
+    position: relative;
+}
+.float-text{
+    position: absolute;
+    bottom: 50px;
+    left: 40%;
+}
+fieldset{
+    border: 1px solid black;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+}
+
+
+/* CSS for Categories */
+.categories{
+    padding: 4% 0;
+}
+
+.box-3{
+    width: 28%;
+    float: left;
+    margin: 2%;
+}
+
+
+/* CSS for Food Menu */
+
+
+.food-menu-img{
+    width: 20%;
+    float: left;
+}
+
+.food-menu-desc{
+    width: 70%;
+    float: left;
+    margin-left: 8%;
+}
+
+.food-price{
+    font-size: 1.2rem;
+    margin: 2% 0;
+}
+.food-detail{
+    font-size: 1rem;
+    color: #747d8c;
+}
+
+
+/* for Order Section */
+.order{
+    width: 50%;
+    margin: 0 auto;
+}
+.input-responsive{
+    width: 96%;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.order-label{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+

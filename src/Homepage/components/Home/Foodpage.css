@@ -1,0 +1,26 @@
+.Food {
+    height: 100vh;
+    background-image: url("Food.png");
+    background-size: cover;
+}
+
+.bttn {
+    margin-top: 450px;
+    margin-left: 1100px;
+    background: rgb(255, 217, 0);
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-size: large;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    color: black;
+    position: absolute;
+    
+}
+.bttn:hover {
+    background: black;
+    color: rgb(255, 217, 0);
+    border: 3px solid rgb(255, 217, 0);
+    cursor: pointer;
+}

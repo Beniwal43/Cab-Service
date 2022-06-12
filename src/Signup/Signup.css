@@ -1,0 +1,8 @@
+.inputBox{
+    display: block;
+    margin: 2.5rem;
+    padding: 0.7rem;
+    width: 30rem;
+    border: 0.1rem solid skyblue;
+}
+

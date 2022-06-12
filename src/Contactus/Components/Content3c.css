@@ -1,0 +1,25 @@
+.main3c{
+    width: 100%;
+    padding-top: 6%;
+}
+
+.cardc{
+    margin-left: 9rem;
+    margin-right: 10rem;
+}
+
+.text3c h1{
+    color: black;
+    font-size: 70px;
+    margin-bottom: 20px;
+    margin-left: 180px;
+}
+
+.text3c h4{
+    color: black;
+    font-size: 30px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    margin-left: 190px;
+}
+
